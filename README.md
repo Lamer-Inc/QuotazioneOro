@@ -1,6 +1,6 @@
 **Leggere attentamente:**
 
-Semplice applicazione sviluppata in Python 3 per ricevere le quotazioni in tempo reale di **oro** e **argento**. Il codice è stato corretto e visionato da **Chat-GPT**, il quale l'ha approvato come funzionante.
+Semplice applicazione sviluppata in Python 3 per ricevere le quotazioni in tempo reale di **oro** e **argento**. Il progetto è stato abbandonato ma il codice può comunque essere revisionato e aggiornato.
 
 **Librerie Necessarie:**
 - `requests`
